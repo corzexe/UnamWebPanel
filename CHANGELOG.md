@@ -8,7 +8,7 @@
 * Changed SQLite synchronous mode to OFF for higher performance
 * Added Spanish translation (Xeneht)
 ### 1.7.0 (25/12/2022)
-* Greatly improved database performance
+* Greatly improved database performancesssssss
 * Greatly improved endpoint performance
 * Added configurable hashrate history feature
 * Added "Total Hashrate" graphs for each algorithm
