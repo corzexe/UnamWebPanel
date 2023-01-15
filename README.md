@@ -14,7 +14,7 @@ Here are some simple steps to get started:
 3. Upload the contents of the UnamWebPanel folder to your webhosts "public_html" folder or the respective folder for your specific webhost.
 4. Your web panel should now be up and running, you can browse to the URL or IP of your website and you should see the login screen if everything went correctly.
 
-If you wish to add the web panel to the SilentCryptoMiner then enter the following website URL: `http://yourwebsite.com/api/endpoint.php` (replace yourwebsite.com with your URL or IP, also make sure to use the correct `http` or `https` protocol depending on if your site has SSL "support" or not) into the `API Endpoint URL` field inside the miner.
+If you wish to add the web panel to the SilentCryptoMiner then enter the following website URL: `http://yourwebsite.com/api/endpoint.php` (replace yourwebsite.com with your URL or IP, also make sure to use the correct `http` or `https` protocol depending on if your site has SSL "support" or not) into the `API Endpoint URL` field inside the miner.das
 
 If you use something other than Apache or IIS to host the web panel then you should check if your database file is exposed to the internet, you can check it by visting the URL `http://yourwebsite.com/unamwebpanel.db` (replace yourwebsite.com with your URL or IP), if it says forbidden or doesn't display anything then your database is secured.
 
