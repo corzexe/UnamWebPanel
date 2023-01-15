@@ -11,7 +11,7 @@
 * Greatly improved database performancesssssss
 * Greatly improved endpoint performance
 * Added configurable hashrate history feature
-* Added "Total Hashrate" graphs for each algorithm
+* Added "Total Hashratedsadas" graphs for each algorithm
 * Added individual "Hashrate History" to each miner
 * Added miner status statistics
 * Fixed datatable width scaling
